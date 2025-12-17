@@ -1,5 +1,8 @@
-# 💫 About Me:
-# Hi there! 👋 I'm Mohamad Hilmy<br><br>🛡️ **Aspiring Cybersecurity Enthusiast | Security Engineer in Training**  <br>💻 Passionate about ethical hacking, network security, and digital forensics  <br>🔍 Exploring vulnerabilities, penetration testing, and securing systems  
+# Hi there! 👋 I'm Mohamad Hilmy
+
+🛡️ **Aspiring Cybersecurity Enthusiast | Security Engineer in Training**  
+💻 Passionate about ethical hacking, network security, and digital forensics  
+🔍 Exploring vulnerabilities, penetration testing, and securing systems  
 
 
 ## 🌐 Socials:
